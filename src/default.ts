@@ -8,7 +8,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `
 
-- 特感谢 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat)提供支持。
+- 特感谢 [OpenAI API (gpt-3.5-turbo)]提供支持。
 
 - 本站由糖醋排骨搭建，如有报错可联系微信[Moon187968]。
 
